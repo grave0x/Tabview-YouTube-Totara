@@ -172,7 +172,7 @@
 
 > **注意：** 以下更新紀錄反映了 Tabview YouTube 早期版本的情況。Tabview YouTube Totara (v5) 是經過重新設計並進一步改進的版本。
 
-### v5.0 (Beta) — [5.0.054](https://greasyfork.org/scripts/501249-tabview-youtube) @ 2025年3月
+### v5.0 (Beta) — [5.0.054](https://greasyfork.org/zh-TW/scripts/501249-tabview-youtube-totara) @ 2025年3月
 
 - 核心功能
 
@@ -190,7 +190,7 @@
 
 - **Chromium 系：** Chrome, Edge, Brave, Cent (Blink 66+)
 - **Webkit 系：** Orion Version 0.99.126.4.1 Beta 或更新版本
-- **Gecko 系：** Firefox 57+、Waterfox、Librefox、Waterfox Classic
+- **Gecko 系：** Firefox 57+、Waterfox、LibreWolf、Waterfox Classic
 
 ---
 
@@ -208,7 +208,7 @@
 ### 相容的 Userscript 管理器
 
 - Tampermonkey（及其 Beta 版本）
-- ViolentMonkey
+- Violentmonkey
 
 ### 相容的網頁瀏覽器（桌面版）
 

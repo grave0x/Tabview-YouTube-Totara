@@ -190,7 +190,7 @@ You need a userscript manager extension: [Tampermonkey](https://www.tampermonkey
 
 - **Chromium-based:** Chrome, Edge, Brave, Cent (Blink 66+)
 - **Webkit-based:** Orion Version 0.99.126.4.1 Beta or later
-- **Gecko-based:** Firefox 57+, Waterfox, Librefox, Waterfox Classic
+- **Gecko-based:** Firefox 57+, Waterfox, LibreWolf, Waterfox Classic
 
 ---
 
@@ -208,7 +208,7 @@ You need a userscript manager extension: [Tampermonkey](https://www.tampermonkey
 ### Compatible Userscript Managers
 
 - Tampermonkey (and its beta)
-- ViolentMonkey
+- Violentmonkey
 
 ### Compatible Web Browsers (Desktop)
 

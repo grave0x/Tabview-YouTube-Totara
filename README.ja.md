@@ -172,7 +172,7 @@
 
 > **注意：** 以下の変更履歴は Tabview YouTube の旧バージョンに基づいています。Tabview YouTube Totara (v5) は、さらなる改善を加えた再設計版です。
 
-### v5.0 (ベータ) — [5.0.054](https://greasyfork.org/scripts/501249-tabview-youtube) @ 2025年3月
+### v5.0 (ベータ) — [5.0.054](https://greasyfork.org/ja/scripts/501249-tabview-youtube-totara) @ 2025年3月
 
 - コア機能の実装
 
@@ -190,7 +190,7 @@
 
 - **Chromium系：** Chrome, Edge, Brave, Cent (Blink 66+)
 - **Webkit系：** Orion Version 0.99.126.4.1 Beta 以降
-- **Gecko系：** Firefox 57+、Waterfox、Librefox、Waterfox Classic
+- **Gecko系：** Firefox 57+、Waterfox、LibreWolf、Waterfox Classic
 
 ---
 
@@ -208,7 +208,7 @@
 ### 対応 Userscript マネージャー
 
 - Tampermonkey（およびそのベータ版）
-- ViolentMonkey
+- Violentmonkey
 
 ### 対応ウェブブラウザ（デスクトップ）
 

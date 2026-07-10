@@ -172,7 +172,7 @@ You need a userscript manager extension: [Tampermonkey](https://www.tampermonkey
 
 > **Note:** The changelog below reflects previous versions of Tabview YouTube. Tabview YouTube Totara (v5) is a redesigned version with further improvements.
 
-### v5.0 (Beta) — [5.0.054](https://greasyfork.org/scripts/501249-tabview-youtube) @ Mar 2025
+### v5.0 (Beta) — [5.0.054](https://greasyfork.org/scripts/501249-tabview-youtube-totara) @ Mar 2025
 
 - Core Features
 

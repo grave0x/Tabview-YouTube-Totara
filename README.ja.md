@@ -190,7 +190,7 @@
 
 - **Chromium系：** Chrome, Edge, Brave, Cent (Blink 66+)
 - **Webkit系：** Orion Version 0.99.126.4.1 Beta 以降
-- **Gecko系：** Firefox 57+、Waterfox、LibreWolf、Waterfox Classic
+- **Gecko系：** Firefox 57+、Waterfox、Librefox、Waterfox Classic
 
 ---
 
@@ -208,7 +208,7 @@
 ### 対応 Userscript マネージャー
 
 - Tampermonkey（およびそのベータ版）
-- Violentmonkey
+- ViolentMonkey
 
 ### 対応ウェブブラウザ（デスクトップ）
 

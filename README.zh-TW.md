@@ -190,7 +190,7 @@
 
 - **Chromium 系：** Chrome, Edge, Brave, Cent (Blink 66+)
 - **Webkit 系：** Orion Version 0.99.126.4.1 Beta 或更新版本
-- **Gecko 系：** Firefox 57+、Waterfox、LibreWolf、Waterfox Classic
+- **Gecko 系：** Firefox 57+、Waterfox、Librefox、Waterfox Classic
 
 ---
 
@@ -208,7 +208,7 @@
 ### 相容的 Userscript 管理器
 
 - Tampermonkey（及其 Beta 版本）
-- Violentmonkey
+- ViolentMonkey
 
 ### 相容的網頁瀏覽器（桌面版）
 
